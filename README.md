@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Test examples
+
+Examples of using hooks are in the 'examples' folder.
+For the test, you just need to copy the contents of the desired file with a hook and paste it into file 'App.js'.
+Then you can start the project.
+
 ## Available Scripts
 
 In the project directory, you can run:
